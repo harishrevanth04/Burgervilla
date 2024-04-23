@@ -1,0 +1,90 @@
+*{
+    padding:0%;
+    margin: 0%;
+}
+nav{
+    color: rgb(255, 255, 255);
+    background-color: rgb(234, 138, 14);
+    padding: 15px;
+}
+li{
+    display: inline;
+}
+h1,ul{
+     display: inline;
+}
+ul{
+    margin-left: 60%;
+}
+.bar{
+    width: 50%;
+    height: 40px;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(234, 138, 14);
+    
+    
+}
+.searchbar{
+    text-align: center;
+    padding: 50px;
+   
+}
+.food{
+    height: 220px;width: 220px;
+}
+.box-1{
+    display: inline-block;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(234, 138, 14);
+    width: 220px;
+
+}
+.Products{
+    text-align: center;
+}
+li:hover{
+    color: black;
+    cursor: pointer;
+}
+.about-us{
+    text-align: center;
+    margin-top: 15px;
+    
+
+}
+.para{
+    font-size: 20px;
+    padding: 10px;
+    
+}
+.contact-us{
+    text-align: center;
+    padding-top: 20px;
+    background-color: rgb(234, 138, 14);
+    color: white;
+    margin-top: 20px;
+
+}
+a{
+    color: white;
+}
+a:hover{
+    color: black;
+}
+a:active{
+    color: white;
+}
+.box-1:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+h3{
+    text-align: right;display: inline-block;padding-left: 70px;
+}
+
+
+
+
